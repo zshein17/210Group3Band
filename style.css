@@ -1,0 +1,192 @@
+/* Style Sheet*/
+/* unvisited link */
+a:link {
+    color: #cc9900;
+}
+
+/* visited link */
+a:visited {
+    color: #cc9900;
+}
+
+/* mouse over link */
+a:hover {
+    color: #aaaaaa;
+}
+
+/* selected link */
+a:active {
+    color: #ad8305;
+}
+
+
+.navbar-brand {
+
+
+font-family: 'Croissant One', cursive;
+font-size: 26px;
+line-height: 100%;
+
+}
+
+body {
+width:85%;
+margin:auto;
+background: #383838;
+
+}
+
+
+
+#logo {
+  float: left;
+  padding-right: 10px;
+
+
+}
+
+
+#topNavbar {
+  border-bottom: 5px solid #cc9900;
+}
+
+
+
+
+.img-fluid {
+
+  width:100%;
+  height: auto;
+  border-bottom: 5px solid #cc9900;
+
+
+}
+
+
+#cont1 {
+background: #FFFFFF;
+height: auto;
+padding: 25px 50px 50px 50px ;
+}
+
+#cont2 {
+background: #FFFFFF;
+height: auto;
+padding: 25px 50px 50px 50px ;
+}
+
+#cont3 {
+background: #FFFFFF;
+height: auto;
+padding: 25px 50px 50px 50px ;
+margin: auto;
+}
+
+#cont4 {
+background: #FFFFFF;
+height: auto;
+padding: 30px 50px 50px 50px ;
+margin: auto;
+}
+
+
+
+footer {
+background: #cc9900;
+float: right;
+text-align: right;
+padding: 5px 50px 15px 50px;
+width: 100%;
+height: auto;
+margin: auto;
+
+}
+
+.footer1 {
+  font-size: 12px;
+  float: left;
+}
+
+.footSoc {
+  float: right;
+
+}
+
+#band1 {
+    float: right;
+    margin: 10px 10px 10px 10px;
+    width: 45%;
+    border-radius: 15px 50px 30px;
+
+
+}
+
+
+
+
+h3 {
+	color: #cc9900;
+	padding: 0;
+	margin: 0 0 5px 0;
+	text-decoration: underline;
+	width: 50%;
+}
+
+
+
+/* Style all font awesome icons */
+.fa {
+    padding-bottom: 20px;
+    padding-top: 5px;
+    width: 55px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if yvou want */
+.fa:hover {
+
+      background: #727272;
+
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #383838;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #383838;
+    color: white;
+}
+
+/* Twitter */
+.fa-youtube {
+    background: #383838;
+    color: white;
+}
+
+#socLink {
+
+  color:white;
+
+
+}
+
+
+
+.carousel-inner{
+
+  max-height: 400px !important;
+}
+
+div.c-wrapper{
+    width: 100%;
+    margin: auto;
+
+}
