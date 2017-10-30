@@ -12,7 +12,7 @@
     <item>
       <title>Current News!</title>
       <pubDate>Sun, 22 Oct 2017 17:20:29 -0400</pubDate>
-      <link>https://news.google.com/news/?ned=us&amp;hl=en</link>
+      <link>"https://news.google.com/news/?ned=us&amp;hl=en"</link>
       <author>Jim</author>
       <category>General</category>
       <description><![CDATA[Keep up with the latest news.]]></description>
