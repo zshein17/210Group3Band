@@ -23,7 +23,7 @@ a:active {
 .navbar-brand {
 
 
-font-family: 'Croissant One', cursive;
+font-family: 'Great Vibes', cursive;
 font-size: 26px;
 line-height: 100%;
 
@@ -78,17 +78,33 @@ padding: 25px 50px 50px 50px ;
 #cont3 {
 background: #FFFFFF;
 height: auto;
-padding: 25px 50px 50px 50px ;
+padding: 25px 80px 50px 80px ;
 margin: auto;
 }
 
 #cont4 {
 background: #FFFFFF;
 height: auto;
-padding: 30px 50px 50px 50px ;
+padding: 20px 80px 80px 80px ;
 margin: auto;
 }
 
+
+#cont5 {
+background: #FFFFFF;
+height: auto;
+padding: 30px 50px 60px 50px ;
+margin: auto;
+font-size: 80%
+}
+
+#cont6 {
+background: #FFFFFF;
+height: auto;
+padding: 30px 50px 120px 50px ;
+margin: auto;
+font-size: 80%
+}
 
 
 footer {
@@ -116,6 +132,18 @@ margin: auto;
     float: right;
     margin: 10px 10px 10px 10px;
     width: 45%;
+    max-height: 325px;
+
+    border-radius: 15px 50px 30px;
+
+
+}
+
+#band2 {
+    float: right;
+    margin: 10px 10px 10px 10px;
+    width: 45%;
+    max-height: 300px;
     border-radius: 15px 50px 30px;
 
 
@@ -144,14 +172,14 @@ h3 {
     text-decoration: none;
 }
 
-/* Add a hover effect if yvou want */
+
 .fa:hover {
 
       background: #727272;
 
 }
 
-/* Set a specific color for each brand */
+
 
 /* Facebook */
 .fa-facebook {
