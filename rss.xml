@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Tidewater Concert Band</title>
+    <link>file:///H:/Assignment%206/Upload/Webpages/index.html</link>
+    <description>This is a Google News Feed.</description>
+    <language>en-us</language>
+    <managingEditor>jjchmml@gmail.com</managingEditor>
+    <webMaster>jjchmml@gmail.com</webMaster>
+    <copyright>2017 TCB</copyright>
+    <item>
+      <title>Current News!</title>
+      <pubDate>Sun, 22 Oct 2017 17:20:29 -0400</pubDate>
+      <link>"https://news.google.com/news/?ned=us&amp;hl=en"</link>
+      <author>Jim</author>
+      <category>General</category>
+      <description><![CDATA[Keep up with the latest news.]]></description>
+    </item>
+  </channel>
+</rss>

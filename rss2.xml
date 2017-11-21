@@ -1,0 +1,18 @@
+<rss version="2.0">
+<channel>
+<generator>NFE/1.0</generator>
+<title>Spotlight - Google News</title>
+<link>https://news.google.coms/rss/?ned=us&hl=en;</link>
+<language>en</language>
+<webMaster>news-feedback@google.com</webMaster>
+<copyright>&copy;2017 Google</copyright>
+<pubDate>Sun, 22 Oct 2017 21:23:14 GMT</pubDate>
+<lastBuildDate>Sun, 22 Oct 2017 21:23:14 GMT</lastBuildDate>
+<image>
+<title>Spotlight - Google News</title>
+<url>https://ssl.gstatic.com/news-static/gnrss.png</url>
+<link>https://news.google.coms/rss/?ned=us&hl=en</link>
+</image>
+<description>Google News</description>
+</channel>
+</rss>
